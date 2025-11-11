@@ -874,7 +874,7 @@ MonoBehaviour:
   enemyPrefab: {fileID: 7002307084095866268, guid: 0a9dfe7c1dfc09b42929ba521b1cb339, type: 3}
   enemyCount: 0
   waveNumber: 1
-  powerupPrefab: {fileID: 0}
+  powerupPrefab: {fileID: 4132694543569396739, guid: 8b0f2f89e09658f459e236c00b0ecfaf, type: 3}
 --- !u!4 &1924766110
 Transform:
   m_ObjectHideFlags: 0
